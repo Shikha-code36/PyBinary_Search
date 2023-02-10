@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='binary_search',
+    name='pybinary_search',
     version='0.0.1',
     description='A binary search implementation in Python',
     author='Shikha Pandey',
