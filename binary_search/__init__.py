@@ -1,5 +1,5 @@
 # __init__.py
-from pybinary_search import binary_search
+from binary_search import binary_search
 
 
 def initialize():
