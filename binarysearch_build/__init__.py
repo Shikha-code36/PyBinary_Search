@@ -1,6 +1,6 @@
 # __init__.py
 
-from pybinary_search import binary_search
+from binarysearch_build import binary_search
 
 
 def initialize():

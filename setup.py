@@ -4,14 +4,14 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setup(
-    name='pybinary_search',
+    name='binarysearch_build',
     version='0.0.1',
     description='A binary search implementation in Python',
     author='Shikha Pandey',
     author_email='shikha.py36@gmail.com',
     long_description_content_type="text/markdown",
     long_description=long_description,
-    url='https://github.com/Shikha-code36/PyBinary_Search',
+    url='https://github.com/Shikha-code36/binary_search',
     packages=find_packages(),
     install_requires=[],
     keywords=['binary search algorithm', 'python', 'data-structures', 'algorithms',
