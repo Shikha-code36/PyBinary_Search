@@ -12,7 +12,7 @@ Binary Search is a searching algorithm used in a sorted array by repeatedly divi
 - Run Following command in the CMD.
 
  ```
-  pip install PyBinary_Search
+  pip install pybinary-search
   ```
 
   
@@ -21,7 +21,7 @@ Binary Search is a searching algorithm used in a sorted array by repeatedly divi
 Here's an example of how to use the `binary_search` function:
 
 ```
-from binary_search import binary_search
+from pybinary_search import binary_search
 
 arr = [1, 2, 3, 4, 5, 6, 7, 8, 9]
 target = 5

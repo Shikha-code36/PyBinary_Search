@@ -1,11 +1,16 @@
 from setuptools import setup, find_packages
 
+with open("README.md", "r") as fh:
+    long_description = fh.read()
+
 setup(
     name='pybinary_search',
     version='0.0.1',
     description='A binary search implementation in Python',
     author='Shikha Pandey',
     author_email='shikha.py36@gmail.com',
+    long_description_content_type="text/markdown",
+    long_description=long_description,
     url='https://github.com/Shikha-code36/PyBinary_Search',
     packages=find_packages(),
     install_requires=[],
