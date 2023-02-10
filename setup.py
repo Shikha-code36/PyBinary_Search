@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setup(
-    name='binarysearch_build',
+    name='search_binary',
     version='0.0.1',
     description='A binary search implementation in Python',
     author='Shikha Pandey',
